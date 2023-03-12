@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/element plus.png"></code></a>
 
 ### Github 活跃度
 
