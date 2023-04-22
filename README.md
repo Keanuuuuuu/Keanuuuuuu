@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @Keanuuuuuu
 - 🌱 I’m currently learning JS,Vue,React……
 - 📫 How to reach me 2737000320@qq.com
+- 🏓 Hobby: code & ukulele
 
 <!---
 Keanuuuuuu/Keanuuuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<img align="right" src="https://count.getloli.com/get/@:Keanuuuuuu?theme=rule34">
 
 ## 前端开发者—Keanu
 
@@ -27,3 +26,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keanuuuuuu&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keanuuuuuu&layout=compact&langs_count=6)
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=recoluan&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=recoluan&theme=calm&hide_border=true">
+</p>
+</details>
