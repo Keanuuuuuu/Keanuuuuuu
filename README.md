@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keanuuuuuu
 - 🌱 I’m currently learning JS,Vue,React……
-- 📫 How to reach me 2737000320@qq.com
+- 📫 How to reach me shiboliu647@gmail.com
 - 🏓 Hobby: code & ukulele
 
 <!---
