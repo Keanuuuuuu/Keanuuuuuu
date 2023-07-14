@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/element plus.png"></code></a>
 <a href="https://www.electronjs.org/"><code><img height="20" src="https://www.electronjs.org/assets/img/logo.svg"></code></a>
+<a href="https://nodejs.org/en"><code><img height="20" src="https://nodejs.org/static/images/logo.svg"></code></a>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
