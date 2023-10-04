@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning JS,Vue,React……
 - 📫 How to reach me shiboliu647@gmail.com
 - 🏓 Hobby: code & ukulele
+- 📚 Blog: [Keanu's blog](http://47.96.232.65/)
 
 <!---
 Keanuuuuuu/Keanuuuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
